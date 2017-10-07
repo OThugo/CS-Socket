@@ -1,0 +1,15 @@
+F:\传智播客\2013年08月20日班\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\bin\Debug\ChatClient.exe
+F:\传智播客\2013年08月20日班\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\bin\Debug\ChatClient.pdb
+F:\传智播客\2013年08月20日班\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.Form1.resources
+F:\传智播客\2013年08月20日班\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+F:\传智播客\2013年08月20日班\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
+F:\传智播客\2013年08月20日班\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.exe
+F:\传智播客\2013年08月20日班\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.pdb
+E:\dot_net案例及教学\6.ASP.NET就业班课程\2013-11-01-aspnet-13-socket\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.exe
+E:\dot_net案例及教学\6.ASP.NET就业班课程\2013-11-01-aspnet-13-socket\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.pdb
+E:\dot_net案例及教学\6.ASP.NET就业班课程\2013-11-01-aspnet-13-socket\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\bin\Debug\ChatClient.exe
+E:\dot_net案例及教学\6.ASP.NET就业班课程\2013-11-01-aspnet-13-socket\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\bin\Debug\ChatClient.pdb
+E:\dot_net案例及教学\6.ASP.NET就业班课程\2013-11-01-aspnet-13-socket\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.csprojResolveAssemblyReference.cache
+E:\dot_net案例及教学\6.ASP.NET就业班课程\2013-11-01-aspnet-13-socket\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.Form1.resources
+E:\dot_net案例及教学\6.ASP.NET就业班课程\2013-11-01-aspnet-13-socket\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+E:\dot_net案例及教学\6.ASP.NET就业班课程\2013-11-01-aspnet-13-socket\2013-11-01-aspnet-13-socket\ChatDemo\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
